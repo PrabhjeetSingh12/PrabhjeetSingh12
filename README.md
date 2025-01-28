@@ -31,7 +31,7 @@ I'm a **Computer Science Graduate** passionate about solving real-world problems
 
 ### **2. Fabril (Order to Manufacture Site)**  
 - **Developed multiple REST services** for **Brand onboarding**, **Product Specifications**, and **Order Tracking APIs**.  
-- Engineered a comprehensive **vendor management system** that streamlined the integration of product offering APIs, reducing setup time for new brands by **30 hours per project**.  
+- Engineered a comprehensive **vendor management system** that streamlined the integration of product offering APIs, reducing setup time for new brands by **30 Minutes per project**.  
 - Deployed and tested services on **AWS EC2**.  
 - Collaborated with the product manager to analyze requirements (PRD) and break down tasks effectively.
 
