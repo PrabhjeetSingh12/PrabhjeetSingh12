@@ -9,12 +9,12 @@ I'm a **Computer Science Graduate** passionate about solving real-world problems
 
 
 ## 🔧 Technical Skills  
-- **Languages:** Java  
+- **Languages:** Java,Python
 - **Frameworks:** Spring Boot, Hibernate  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** IntelliJ, Eclipse, GitHub, AWS EC2  
 - **APIs:** REST  
-- **Other Skills:** JDBC, OOP Concepts, SDLC Processes  
+- **Other Skills:** JDBC, OOPs Concepts, SDLC Processes  
 
 ---
 
